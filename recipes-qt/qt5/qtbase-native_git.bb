@@ -1,3 +1,4 @@
+QT_GIT_PROTOCOL = "https"
 DESCRIPTION = "Native version of Qt/[X11|Mac|Embedded]"
 DEPENDS = "zlib-native dbus-native"
 SECTION = "libs"
