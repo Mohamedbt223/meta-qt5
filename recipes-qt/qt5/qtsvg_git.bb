@@ -1,3 +1,4 @@
+QT_GIT_PROTOCOL = "https"
 require qt5.inc
 require qt5-git.inc
 
